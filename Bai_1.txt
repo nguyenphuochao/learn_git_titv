@@ -1,0 +1,17 @@
+- Git là gì?
+  - Version control system: Hệ thống quản lí/kiểm soát phiên bản
+  - Lịch sử: cái gì đã thực hiện
+             ai đã làm
+             khi nào
+             tại sao
+  - các nhóm có thể cộng tác trong 1 project
+
+- Nguyên tắc
+  - có 1 kho lưu trữ trung tâm(repository)
+  - Lấy dữ liệu về, thực hiện các công việc, cập nhật dữ liệu lên kho trung tâm
+  - Công cụ giải quyết xung đột
+- Lợi ích: Version 1.0, version 2.0, version 3.0
+  - Đảm bảo chúng ta ko làm hỏng bất cứ thứ gì vĩnh viễn
+  - Giúp chúng ta có thể cộng tác
+  - Phát triển phiên bản mới, mà ko ảnh hưởng phiên bản cũ
+  - Có thể quay lại phiên bản trước bất kì lúc nào mà bạn muốn
