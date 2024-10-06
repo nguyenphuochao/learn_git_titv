@@ -14,4 +14,4 @@
   - Đảm bảo chúng ta ko làm hỏng bất cứ thứ gì vĩnh viễn
   - Giúp chúng ta có thể cộng tác
   - Phát triển phiên bản mới, mà ko ảnh hưởng phiên bản cũ
-  - Có thể quay lại phiên bản trước bất kì lúc nào mà bạn muốn
+  - Có thể quay lại phiên bản trước bất kì lúc nào mà bạn muốn/chia sẻ với người khác

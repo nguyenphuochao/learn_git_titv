@@ -1,0 +1,17 @@
+- cd: change directory
+      cd .. (quay về thư mục cha)
+- dir (MS window) : Hiển thị danh sách các tập tin/thư mục
+  ls (Linux, MacOS)
+- mkdir "Folder name" : tạo ra 1 thư mục mới
+- touch "Tên File" : tạo 1 tập tin mới
+- echo: in/xuất một nội dung
+      > : chỉ định hướng để xuất dữ liệu
+  echo "Text" > "TenFile" (OverWrite) : xuất chữ vào trong file
+  echo "Text" >> "TenFile" (Ghi newline)
+  echo > vidu2.txt (Tạo 1 file rỗng)
+- cat : hiển thị nội dung
+- diff fil1 file2: so sánh file1 và file2 khác biệt
+- rm (remove) : xóa tập tin
+    rm "Filename"
+    rm -d "Tên thư mục" (rỗng)
+    rm -r "Tên thư mục" (có dữ liệu)

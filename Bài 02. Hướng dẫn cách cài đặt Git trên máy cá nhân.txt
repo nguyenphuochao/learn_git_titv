@@ -1,0 +1,2 @@
+- Hướng dẫn cài đặt git
+- Kiểm tra phiên bản git: git --version
