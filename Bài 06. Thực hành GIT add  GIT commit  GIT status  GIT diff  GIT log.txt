@@ -1,0 +1,6 @@
+- git add [file name(s)] : thêm tệp vào index
+- git add .              : thêm tệp tất cả
+- git commit -m 'nội dung' : tạo commit -> repo
+- git status : sự khác biệt giữa 3 cây
+- git diff : so sán với commit cuối cùng
+- git log : để lịch sử
