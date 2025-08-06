@@ -2,5 +2,5 @@
 - git add .              : thêm tệp (tất cả)
 - git commit -m 'nội dung' : tạo commit -> repo
 - git status : sự khác biệt giữa 3 cây
-- git diff : so sán với commit cuối cùng
-- git log : để lịch sử
+- git diff : so sánh với commit cuối cùng
+- git log : để xem lịch sử những lần commit

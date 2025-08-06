@@ -1,1 +1,5 @@
 - .gitignore : bỏ qua các commit lên repo
+-  Nếu folder/file đã được track từ trước
+    git rm -r --cached [folder/file]
+    git commit -m "Remove foder/file folder from tracking"
+
