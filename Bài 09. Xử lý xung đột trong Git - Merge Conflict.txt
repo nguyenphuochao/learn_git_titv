@@ -1,0 +1,18 @@
+- Bước 1: Mở file có xung đột sẽ thấy nội dung kiểu:
+
+<<<<<<< HEAD
+(nội dung từ nhánh hiện tại)
+=======
+(nội dung từ nhánh khác)
+>>>>>>> nhánh_được_merge
+
+- Bước 2: Chỉnh sửa lại nội dung
+
+    Mình là người quyết định giữ file nào, nội dung nào
+    Chỉnh thủ công bằng tay
+
+- Bước 3: Add lại file sau khi sửa
+
+- Bước 4: Commit lại
+
+- Bước 5: Git push
