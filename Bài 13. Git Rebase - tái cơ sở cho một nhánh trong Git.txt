@@ -1,0 +1,3 @@
+- git rebase <tên nhánh>
+- git rebase --continue
+- git rebase --skip

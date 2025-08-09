@@ -1,0 +1,5 @@
+- git revert <commit id>
+- git revert --no-edit <commit id>
+- Lý do dùng : 
+    Quay lại commit trước đây
+    Nhưng không hủy bỏ commit mới

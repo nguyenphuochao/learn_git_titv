@@ -3,7 +3,9 @@ Tại sao dùng :
     - Thử nghiệm (Cần có hướng khác)
     - Quay lại / tiếp tục
 Lệnh : 
+    - git branch -a : xem tất cả cách nhánh hiện có,bao gồm nhánh local và remote
     - git branch -l : xem nhánh hiện tại đang làm việc
     - git branch <branch_name> : tạo nhánh mới
     - git checkout <branch_name> : chuyển nhánh khi đã có 
+    - git checkout -b <branch_name> : tạo nhánh mới và chuyển nhánh
     

@@ -1,0 +1,3 @@
+- git branch -a : xem tất cả cách nhánh hiện có,bao gồm nhánh local và remote
+- git branch -d <tên nhánh> : xóa nhánh ở local 
+- git push origin -d <tên nhánh> : xóa nhánh ở remote 
