@@ -1,0 +1,2 @@
+- Cú pháp :
+  git checkout <commit_hash>
