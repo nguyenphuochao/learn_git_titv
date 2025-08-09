@@ -1,0 +1,3 @@
+- Lệnh : git merge 
+- Trong nhánh A : git merge B
+    Đem hết công việc của nhánh B bỏ vào nhánh A
