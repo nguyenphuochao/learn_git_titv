@@ -1,0 +1,9 @@
+- Local to github
+- Cách làm : 
+    - Tạo repo_folder_name ở Local
+    - cd repo_folder_name
+    - git init: khởi tạo repository ở local
+    - git add . (git add file_name)
+    - git commit -m "message commit"
+    - git remote add <remote-url-name> : tạo kết nối với remote url trên github
+    - git push -u origin main : đẩy source lên github CentralRepo

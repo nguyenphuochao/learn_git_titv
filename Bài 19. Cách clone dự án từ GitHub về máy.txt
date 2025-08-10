@@ -1,0 +1,6 @@
+- Github to Local
+- Cách làm : 
+    - Cấu hình user.name
+    - Cấu hình user.email
+    - git clone <remote-name-url> : clone từ github CentralRepo về local
+    - Thực hiện các thao tác với git : git add, git commit, git push như bình thường.

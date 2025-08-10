@@ -1,0 +1,7 @@
+- Fork to Github
+- Ý nghĩa : Giống như clone souce từ github của người khác về github của mình
+- Cách đồng bộ với fork:
+    git remote add <summary-name> <repo-url-name-fork>
+    git remote -v : Kiểm tra thông tin remote
+    git fetch <summary-name>
+    git merge <summary-name>
